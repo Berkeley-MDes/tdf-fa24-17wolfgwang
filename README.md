@@ -1,10 +1,12 @@
-# Hello DES INV 202 Student!
-Welcome to your new GitHub repository! 
+# Hello, I'm Josh
+# Welcome to my place!
 
-# Outline
+## List
 [week 1](README.md#week-1-example-report-1)
+[week 2](README.md#week-1-example-report-1)
 
-week 2, etc...
+---
+Week 1
 
 ---
 
