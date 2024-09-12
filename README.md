@@ -1,12 +1,34 @@
-# Hello, I'm Josh
-# Welcome to my place!
+# Hello, I'm Josh. Welcome to my place!
 
 ## List
-[week 1](README.md#week-1-example-report-1)
+[week 1](README.md#week-of-09052024)
+
 [week 2](README.md#week-1-example-report-1)
 
 ---
-Week 1
+## Week of 09/05/2024
+
+I have experience with 3D printing, but laser cutting is new to me, so I decided to give it a try. I thought it would be nice to highlight the natural color of the wood, so I considered making something like a Welsh Corgi that matches the color.
+
+
+![corgi](https://github.com/user-attachments/assets/3c05e86e-1827-44ec-acd2-a7aa1ce8bdb7)
+
+
+![5180633_0](https://github.com/user-attachments/assets/5a030097-98fe-43a8-bd64-2f8c5481e53d)
+<img width="1009" alt="Screenshot 2024-09-12 at 11 24 05 AM" src="https://github.com/user-attachments/assets/285499b2-4475-4e5f-84be-bf510d0802b1">
+
+There were specific rules for laser cutting. Lines that needed to be cut were set in red, and areas that needed to be lightly engraved were set in blue, with a line thickness of 0.001. Although the colors can be adjusted depending on the settings, it’s generally recommended to follow the commonly used conventions.
+
+<img width="446" alt="Screenshot 2024-09-12 at 11 17 25 AM" src="https://github.com/user-attachments/assets/c554d2b0-0caf-41af-a549-966e729f8578">
+
+After setting the material thickness and other parameters on the laser cutter, I was able to create this cute Corgi!
+
+![IMG_2948 2 (1)](https://github.com/user-attachments/assets/b613fca0-bbc2-4ef8-aecb-76e28b6848f1)
+
+While waiting for the cutting, I also learned that QR codes can be engraved, which I think could be useful for future projects, so I made a note of it.
+
+![IMG_2949 2 (1)](https://github.com/user-attachments/assets/b2cf6d3c-b406-41e5-9d9f-3a9d71b7578a)
+
 
 ---
 
