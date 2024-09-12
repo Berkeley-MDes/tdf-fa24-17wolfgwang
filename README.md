@@ -10,10 +10,6 @@
 
 I have experience with 3D printing, but laser cutting is new to me, so I decided to give it a try. I thought it would be nice to highlight the natural color of the wood, so I considered making something like a Welsh Corgi that matches the color.
 
-
-![corgi](https://github.com/user-attachments/assets/3c05e86e-1827-44ec-acd2-a7aa1ce8bdb7)
-
-
 ![5180633_0](https://github.com/user-attachments/assets/5a030097-98fe-43a8-bd64-2f8c5481e53d)
 <img width="1009" alt="Screenshot 2024-09-12 at 11 24 05 AM" src="https://github.com/user-attachments/assets/285499b2-4475-4e5f-84be-bf510d0802b1">
 
@@ -22,6 +18,8 @@ There were specific rules for laser cutting. Lines that needed to be cut were se
 <img width="446" alt="Screenshot 2024-09-12 at 11 17 25 AM" src="https://github.com/user-attachments/assets/c554d2b0-0caf-41af-a549-966e729f8578">
 
 After setting the material thickness and other parameters on the laser cutter, I was able to create this cute Corgi!
+
+<img src="https://github.com/user-attachments/assets/b613fca0-bbc2-4ef8-aecb-76e28b6848f1" alt="Description of the image" width="300" height="500"/>
 
 ![IMG_2948 2 (1)](https://github.com/user-attachments/assets/b613fca0-bbc2-4ef8-aecb-76e28b6848f1)
 
