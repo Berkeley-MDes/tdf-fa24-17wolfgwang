@@ -6,6 +6,37 @@
 [week 2](README.md#week-1-example-report-1)
 
 ---
+## Week of 09/11/2024
+First, I tried to understand about the structure of grasshopper. I reviewed the given example and created a diagram.
+![grasshopper drawio](https://github.com/user-attachments/assets/6e73c1ec-0a7c-4123-8eef-cb0e11b3cd22)
+
+And I start to make my own. I tried to build my own box.
+
+<img width="1108" alt="Screenshot 2024-09-12 at 10 13 01 AM" src="https://github.com/user-attachments/assets/5a321ce8-f8f0-4b87-b5b8-d19268197a7c">
+
+I found that this node seemed to act as the origin point for the shape I was creating.
+
+<img width="1133" alt="Screenshot 2024-09-12 at 10 15 16 AM" src="https://github.com/user-attachments/assets/01184f2c-b53e-4e3f-bf81-49f7da8ad668">
+
+So I build a rectangle based on this point and extrude it.
+
+However, the position wasn’t where I wanted it to be. So I put move node with Units. 
+
+<img width="1169" alt="Screenshot 2024-09-12 at 11 01 06 AM" src="https://github.com/user-attachments/assets/ead1050d-f8ae-4119-9847-82f602be5114">
+
+Now it move to the center.
+
+And then, I tried to brep with the phone from cellphone stand exapmle.
+
+<img width="1275" alt="Screenshot 2024-09-12 at 11 44 06 AM" src="https://github.com/user-attachments/assets/bbb6bb18-264e-426d-a49f-4c71ef9d2ba4">
+
+The problem is that the result is just a common line of box and phone.
+
+
+
+
+
+---
 ## Week of 09/05/2024
 
 I have experience with 3D printing, but laser cutting is new to me, so I decided to give it a try. I thought it would be nice to highlight the natural color of the wood, so I considered making something like a Welsh Corgi that matches the color.
