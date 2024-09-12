@@ -32,7 +32,8 @@ And then, I tried to brep with the phone from cellphone stand exapmle.
 
 The problem is that the result is just a common line of box and phone.
 
-
+For better understanding, I follow Youtube video and make box like this.
+<img width="1397" alt="Screenshot 2024-09-12 at 3 07 02 PM" src="https://github.com/user-attachments/assets/2c895c66-0cf2-4404-9448-f5725fdafdd7">
 
 
 
