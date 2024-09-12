@@ -19,13 +19,11 @@ There were specific rules for laser cutting. Lines that needed to be cut were se
 
 After setting the material thickness and other parameters on the laser cutter, I was able to create this cute Corgi!
 
-<img src="https://github.com/user-attachments/assets/b613fca0-bbc2-4ef8-aecb-76e28b6848f1" alt="Description of the image" width="300" height="500"/>
-
-![IMG_2948 2 (1)](https://github.com/user-attachments/assets/b613fca0-bbc2-4ef8-aecb-76e28b6848f1)
+<img src="https://github.com/user-attachments/assets/b613fca0-bbc2-4ef8-aecb-76e28b6848f1" alt="Description of the image" width="500" height="500"/>
 
 While waiting for the cutting, I also learned that QR codes can be engraved, which I think could be useful for future projects, so I made a note of it.
 
-![IMG_2949 2 (1)](https://github.com/user-attachments/assets/b2cf6d3c-b406-41e5-9d9f-3a9d71b7578a)
+<img src="https://github.com/user-attachments/assets/b2cf6d3c-b406-41e5-9d9f-3a9d71b7578a" alt="Description of the image" width="500" height="500"/>
 
 
 ---
