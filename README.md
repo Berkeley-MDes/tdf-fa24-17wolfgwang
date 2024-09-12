@@ -3,7 +3,7 @@
 ## List
 [week 1](README.md#week-of-09052024)
 
-[week 2](README.md#week-1-example-report-1)
+[week 2](README.md#week-of-09112024)
 
 ---
 ## Week of 09/11/2024
