@@ -12,33 +12,33 @@
 
 This week, I had an assignment to create a video alongside 3D printing. While brainstorming ideas, I found myself unconsciously sketching something on my rattling tablet. I often thought it was something I really needed while drawing, and this project made me realize it was time to create it.
 
-<img width="1108" alt="Screenshot 2024-09-12 at 10 13 01 AM" src="https://github.com/user-attachments/assets/b9befb78-adae-4de1-8056-9ae02ebc2c51">
+<img width="1108" height="1000" alt="Screenshot 2024-09-12 at 10 13 01 AM" src="https://github.com/user-attachments/assets/b9befb78-adae-4de1-8056-9ae02ebc2c51">
 
 Studying Rhino was quite challenging. I learned by clicking on each node, understanding its meaning, and making adjustments as I went along.
 
-<img width="1073" alt="Screenshot 2024-09-19 at 2 09 44 PM" src="https://github.com/user-attachments/assets/3082b9c2-3ddb-4116-9db9-981ae62fdd3d">
+<img width="1073" height="1000" alt="Screenshot 2024-09-19 at 2 09 44 PM" src="https://github.com/user-attachments/assets/3082b9c2-3ddb-4116-9db9-981ae62fdd3d">
 
 As I was following each node, wondering, "What makes this better compared to typical 3D modeling tools?", I realized something. I was logically thinking through how the design was constructed, step by step. While I’m not sure if this was the original intention or the main advantage of the tool, for me, it was a method that allowed me to easily understand the design process.
 
-<img width="1031" alt="Screenshot 2024-09-19 at 2 11 29 PM" src="https://github.com/user-attachments/assets/061e01dc-60c0-4619-809c-bad7fcf3c636">
+<img width="1031" height="1000" alt="Screenshot 2024-09-19 at 2 11 29 PM" src="https://github.com/user-attachments/assets/061e01dc-60c0-4619-809c-bad7fcf3c636">
 
 I, too, started creating and connecting nodes one by one in a similar logical manner. As a result, the brep union that had previously failed was successfully completed.
 
-<img width="787" alt="Screenshot 2024-09-19 at 2 12 42 PM" src="https://github.com/user-attachments/assets/9c824b11-3a14-40f0-885e-c7548dfe132c">
+<img width="787" height="1000" alt="Screenshot 2024-09-19 at 2 12 42 PM" src="https://github.com/user-attachments/assets/9c824b11-3a14-40f0-885e-c7548dfe132c">
 
 I also learned how to fillet and modify edges using Rhino. Ultimately, I was able to create the following model.
 
-<img width="733" alt="Screenshot 2024-09-19 at 2 14 16 PM" src="https://github.com/user-attachments/assets/06bfe607-6afc-48db-8e43-7f0e438258f5">
+<img width="733" height="1000" alt="Screenshot 2024-09-19 at 2 14 16 PM" src="https://github.com/user-attachments/assets/06bfe607-6afc-48db-8e43-7f0e438258f5">
 
 3D printing was another challenge. I had to learn how to use a slicer for the 3D printer, set it up properly, and understand the roles of features like brim and infill.
 
-<img width="1257" alt="Screenshot 2024-09-19 at 2 16 00 PM" src="https://github.com/user-attachments/assets/5133f1a9-19d0-4fc5-a9df-e40ffb733601">
+<img width="1257" height="1000" alt="Screenshot 2024-09-19 at 2 16 00 PM" src="https://github.com/user-attachments/assets/5133f1a9-19d0-4fc5-a9df-e40ffb733601">
 
 At one point, I failed due to incorrect settings, but with some help, I was able to successfully print it as shown here.
 
-<img width="1194" alt="Screenshot 2024-09-19 at 2 16 18 PM" src="https://github.com/user-attachments/assets/e5d68e4c-519b-41b5-8a64-a69d6ecf24df">
-<img width="1169" alt="Screenshot 2024-09-19 at 2 21 07 PM" src="https://github.com/user-attachments/assets/99b0317c-bc76-4bf6-be4b-f2d1be482d5d">
-<img width="711" alt="Screenshot 2024-09-19 at 2 21 15 PM" src="https://github.com/user-attachments/assets/53368f65-1b5a-4bcb-a8fc-8453e9217fed">
+<img width="1194" height="1000" alt="Screenshot 2024-09-19 at 2 16 18 PM" src="https://github.com/user-attachments/assets/e5d68e4c-519b-41b5-8a64-a69d6ecf24df">
+<img width="1169" height="1000" alt="Screenshot 2024-09-19 at 2 21 07 PM" src="https://github.com/user-attachments/assets/99b0317c-bc76-4bf6-be4b-f2d1be482d5d">
+<img width="711" height="1000" alt="Screenshot 2024-09-19 at 2 21 15 PM" src="https://github.com/user-attachments/assets/53368f65-1b5a-4bcb-a8fc-8453e9217fed">
 
 Working on this project made me realize how challenging it can be, and it gave me a deep sense of appreciation for the everyday items I use. At the same time, I feel like I've developed the ability to understand and reflect on the design process and background of products on my own.
 
