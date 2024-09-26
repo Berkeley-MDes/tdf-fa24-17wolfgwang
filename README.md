@@ -7,6 +7,43 @@
 
 [week 3](README.md#week-of-09182024)
 
+[week 4](README.md#week-of-09262024)
+
+---
+## Week of 09/26/2024
+
+This is my concept map of my Work & Productivity Ecosystems
+
+<img width="1000" alt="Screenshot 2024-09-26 at 10 42 41 AM" src="https://github.com/user-attachments/assets/15c728ae-58f2-48bb-8418-14215fcc4880">
+
+I enjoy working. The experience of immersing myself in something and creating something from nothing is always enjoyable for me. However, I can’t dedicate all of my time to work since life involves many different aspects, including relationships. In order to perform well at work, considering productivity is essential. To live more productively, I’ve organized the concepts and tools I use into six key categories:
+
+1. Physical Workspace
+
+Creating a productive environment is crucial for focusing on tasks. I often use my AirPods to block out surrounding noise, which helps me concentrate no matter where I am. Additionally, when my focus starts to wane, drinking water helps me refresh and regain my concentration. At night, I use a desk light that illuminates only a small area, allowing me to focus solely on that spot. These elements help me create a physical environment that’s suited for productive work.
+
+2. Digital Tools
+
+I’m a big fan of Notion. I use it for recording schedules, journaling, and even taking notes. A few years ago, I used to write things by hand, but now Notion has become an indispensable tool. I also use AI tools like ChatGPT every day. It feels like having an extra assistant, helping me handle tasks more efficiently within limited time and resources, greatly boosting my productivity. Tools like Slack and Discord are also incredibly effective for team collaboration. They not only allow us to communicate but also to store and manage various resources.
+
+3. Time Management
+
+Time management is critical. To manage my time effectively, I use a physical timer called Time Timer Mod. I also prioritize my tasks and organize them in Notion, as mentioned earlier, while using Google Calendar to manage both my MDes schedule and personal events.
+
+4. Professional Development
+
+Professional growth doesn’t come just from doing the work. You need to constantly learn and develop yourself. I often use platforms like Coursera and YouTube to study more advanced or simplified versions of topics I’m learning. Additionally, I receive feedback and guidance through mentoring, which helps me evaluate my gaps and find the necessary resources. Participating in hackathons also gives me the opportunity to meet diverse people and gain inspiration.
+
+5. Collaboration
+
+In teamwork, the most important thing is minimizing communication loss. The less of that, the more efficient the work becomes. Figma plays a key role in bridging that gap, allowing us to work on the same thing while seeing and communicating the same ideas. When time and space constraints make team collaboration difficult, we use Zoom or Google Meet for remote meetings. Files are also shared in real-time through Google Drive, making them accessible from anywhere. This has been incredibly helpful for me.
+
+6. Health & Wellness
+
+Taking care of my health is just as important. I try to follow a routine and lead a more structured life every day. Although I don’t particularly enjoy vegetables, I make sure to eat at least one meal a day that includes them to maintain a balanced diet. I also drink water frequently, aiming for over 2 liters a day, which helps me feel more refreshed and energized.
+
+This is my Work & Productivity Ecosystem. I hope to learn many interesting things from this class that will positively impact my work life!
+
 ---
 ## Week of 09/19/2024
 
