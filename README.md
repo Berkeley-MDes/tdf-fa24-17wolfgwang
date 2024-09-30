@@ -9,6 +9,25 @@
 
 [week 4](README.md#week-of-09262024)
 
+[week 5](README.md#week-of-09302024)
+
+---
+## Week of 09/30/2024
+
+I learned a new technology, Photon2.
+
+I had briefly worked with Arduino before, but this was my first time using Photon2. The main difference is that it can connect to the internet, while the rest is pretty much the same as Arduino.
+
+Since I learned how to make connections during the class, I wanted to try a small project using LEDs. I found a project in the class materials that changes the LED color based on pressure, so I decided to give it a try.
+
+<img width="878" alt="Screenshot 2024-09-30 at 3 57 17 PM" src="https://github.com/user-attachments/assets/78f00ff1-d959-4299-acb2-50765bfd744d">
+
+I uploaded a video of it working on YouTube. Due to the unstable connection of the pressure sensor, I had to hold it by hand during the test.
+
+https://youtu.be/qqoc9y283Ho
+
+Next time, I plan to use an API to take advantage of its internet connectivity.
+
 ---
 ## Week of 09/26/2024
 
