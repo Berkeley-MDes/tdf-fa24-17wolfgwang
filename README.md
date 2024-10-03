@@ -11,6 +11,12 @@
 
 [week 5](README.md#week-of-09302024)
 
+[week 6](README.md#week-of-10032024)
+
+---
+## Week of 10/03/2024
+
+
 ---
 ## Week of 09/30/2024
 
