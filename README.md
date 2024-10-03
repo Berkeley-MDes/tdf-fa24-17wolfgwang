@@ -14,11 +14,11 @@
 [week 6](README.md#week-of-10032024)
 
 ---
-## Week of 10/03/2024
+## Week of 10/10/2024
 
 
 ---
-## Week of 09/30/2024
+## Week of 10/03/2024
 
 I learned a new technology, Photon2.
 
