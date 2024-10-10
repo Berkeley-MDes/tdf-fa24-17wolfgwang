@@ -26,7 +26,7 @@ As shown in the image below, when the back is bent or posture is poor, the gyro 
 
 The operation process is summarized as follows:
 
-<img width="500" alt="Screenshot 2024-09-30 at 3 57 17 PM" src="https://github.com/user-attachments/assets/78f00ff1-d959-4299-acb2-50765bfd744d">
+<img width="500" alt="Screenshot 2024-09-30 at 3 57 17 PM" src="https://github.com/user-attachments/assets/752656ca-fd85-4566-b212-fd5ff339357c">
 
 The essential inputs are:
 
