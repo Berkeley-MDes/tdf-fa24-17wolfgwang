@@ -13,9 +13,32 @@
 
 [week 6](README.md#week-of-10032024)
 
+[week 7](README.md#week-of-10102024)
+
 ---
 ## Week of 10/10/2024
 
+We have formed a team for the project. The idea, developed together with Yule, is a posture correction notification system using a gyroscope sensor.
+
+As shown in the image below, when the back is bent or posture is poor, the gyro sensor detects the angle and triggers a notification.
+
+<img width="500" alt="Screenshot 2024-09-30 at 3 57 17 PM" src="https://github.com/user-attachments/assets/242823bd-b355-456f-8012-0e2b3f0f6679">
+
+The operation process is summarized as follows:
+
+<img width="500" alt="Screenshot 2024-09-30 at 3 57 17 PM" src="[https://github.com/user-attachments/assets/78f00ff1-d959-4299-acb2-50765bfd744d](https://github.com/user-attachments/assets/c3b8c0c7-f39b-4c68-b2c6-1e57054fe294)">
+
+The essential inputs are:
+
+- Input 1: Button 1 – Power on/off
+- Input 2: Gyroscope sensor data
+- Input 3: Button 2 – Calibration process on
+
+The outputs will be : 
+- Vibrator
+- LED
+
+I'm looking forward to seeing how the project will turn out.
 
 ---
 ## Week of 10/03/2024
