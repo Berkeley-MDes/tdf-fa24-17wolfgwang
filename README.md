@@ -22,36 +22,36 @@
 ---
 ## Week of 10/24/2024
 
-백팩에 연결하여 Jeff가 추천해준 SensorLab을 통해 calibration을 진행했습니다.
+백팩에 연결하여 Jeff가 추천해준 SensorLab을 통해 calibration을 진행했습니다.  
 <img width="987" alt="Screenshot 2024-10-24 at 3 55 07 PM" src="https://github.com/user-attachments/assets/5acff835-ef20-46eb-9581-55cb78f80e9b">
 
 그 후 기울임과 함께 진동과 LED가 발생하도록 하였습니다.
-Right posture
+Right posture  
 <img width="500" alt="Screenshot 2024-10-24 at 3 53 45 PM" src="https://github.com/user-attachments/assets/a0aceed9-bb70-4886-87dc-40c0a64ac94f">
 
-Wrong posture(Vibration & Alarm)
+Wrong posture(Vibration & Alarm)  
 <img width="500" alt="Screenshot 2024-10-24 at 3 53 55 PM" src="https://github.com/user-attachments/assets/0e0cb95a-8f0e-47ce-a3f0-8367e80c9700">
 
 
 ---
 ## Week of 10/17/2024
 We tested all of our elements first.
-LED
+LED  
 <img width="435" alt="Screenshot 2024-10-24 at 3 47 30 PM" src="https://github.com/user-attachments/assets/01fb1b32-4874-418c-b8bc-fa683c84668e">
 
-Haptic sensor
+Haptic sensor  
 <img width="591" alt="Screenshot 2024-10-24 at 3 47 40 PM" src="https://github.com/user-attachments/assets/8dc5e643-9803-4482-aa6a-199fd0ed85d0">
 
-Button connected to LED
+Button connected to LED  
 <img width="528" alt="Screenshot 2024-10-24 at 3 47 53 PM" src="https://github.com/user-attachments/assets/1564c319-0229-4242-bc2d-901a842f919a">
 
-Gyro sensor(with data)
+Gyro sensor(with data)  
 <img width="570" alt="Screenshot 2024-10-24 at 3 48 50 PM" src="https://github.com/user-attachments/assets/399fb39f-7f79-4fa7-8e9d-026d0331d0ee">
 
-Everything is working well, and I’ve assembled it all together.
+Everything is working well, and I’ve assembled it all together.  
 
-The plan is to enclose the components in a box like this and attach it to the bag using a cable tie in the back. 
-<img width="570" alt="Screenshot 2024-10-24 at 3 48 50 PM" src="https://github.com/user-attachments/assets/17e2f956-d7c4-478b-945e-a2c8745b1a48">
+The plan is to enclose the components in a box like this and attach it to the bag using a cable tie in the back.  
+<img width="570" alt="Screenshot 2024-10-24 at 3 48 50 PM" src="https://github.com/user-attachments/assets/17e2f956-d7c4-478b-945e-a2c8745b1a48">  
 
 After calibration, the correct posture will be set, and as the user moves, the device will trigger vibration and LED notifications when necessary.
 
