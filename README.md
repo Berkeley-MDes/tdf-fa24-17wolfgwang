@@ -22,10 +22,11 @@
 ---
 ## Week of 10/24/2024
 
-백팩에 연결하여 Jeff가 추천해준 SensorLab을 통해 calibration을 진행했습니다.  
+I attached it to the backpack and performed calibration using SensorLab, as Jeff recommended.
 <img width="987" alt="Screenshot 2024-10-24 at 3 55 07 PM" src="https://github.com/user-attachments/assets/5acff835-ef20-46eb-9581-55cb78f80e9b">
 
-그 후 기울임과 함께 진동과 LED가 발생하도록 하였습니다.
+After that, if the posture deviates from the correct alignment, it triggers vibration and LED alerts along with the tilt detection.  
+
 Right posture  
 <img width="500" alt="Screenshot 2024-10-24 at 3 53 45 PM" src="https://github.com/user-attachments/assets/a0aceed9-bb70-4886-87dc-40c0a64ac94f">
 
