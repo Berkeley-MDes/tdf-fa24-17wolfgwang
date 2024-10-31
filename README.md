@@ -17,7 +17,30 @@
 
 [week 8](README.md#week-of-10172024)
 
-[week 9](README.md#week-of-10172024)
+[week 9](README.md#week-of-10242024)
+
+[week 10](README.md#week-of-10312024)
+
+---
+## Week of 10/31/2024
+
+Learned about Zerowidth, I was always want to learn about building AI Agent.
+And It also glad to see actual founder who make this service.
+<img width="500" alt="Screenshot 2024-10-31 at 4 13 29 PM" src="https://github.com/user-attachments/assets/666e0b83-2686-4a0d-852c-d9ec396071f1">
+
+I tried sample simple Q&A flow.
+<img width="500" alt="Screenshot 2024-10-31 at 4 14 08 PM" src="https://github.com/user-attachments/assets/7c398c22-b6a5-4a35-8cd3-e646b3a551ee">
+
+And I follow things what I learned and tried to make one chatbot
+<img width="500" alt="Screenshot 2024-10-31 at 4 14 22 PM" src="https://github.com/user-attachments/assets/a0eb883a-2eea-4d8a-a93e-db642ff07fe0">
+
+I put prompt like this
+<img width="500" alt="Screenshot 2024-10-31 at 4 14 33 PM" src="https://github.com/user-attachments/assets/03311742-3b1e-41c0-9cf5-6bcbe89c1fce">
+
+And finally it works like this
+<img width="500" alt="Screenshot 2024-10-31 at 4 15 07 PM" src="https://github.com/user-attachments/assets/d0f0d552-cb6e-4873-adff-f8718824e235">
+
+quite interesting experience, get some inspriation of ideas.
 
 ---
 ## Week of 10/24/2024
