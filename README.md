@@ -22,6 +22,48 @@
 [week 10](README.md#week-of-10312024)
 
 ---
+## Week of 11/07/2024
+
+#### What is ZeroWidth?
+
+: ZeroWidth is an AI tool that enables interaction through an API, designed for customized AI conversations based on the specific needs of the user.
+
+#### What is an AI Agent?
+
+: An AI Agent is a system designed to simulate human-like conversations, often using natural language processing to interact and respond based on user inputs. Unlike standard AI chatbots like ChatGPT or Claude, an AI Agent can be tailored to utilize specific data, allowing for more customized responses.
+
+#### Experiments
+
+Through the experiments provided in the assignment, I was able to understand differences between models and the variations in performance across different stages.  
+<img width="500" alt="Screenshot 2024-11-12 at 3 16 11 PM" src="https://github.com/user-attachments/![Uploading Screenshot 2024-11-12 at 3.19.53 PM.png…]()
+assets/7ca27cea-ed3c-4c2b-a812-a1444fb76638">
+
+<img width="500" alt="Screenshot 2024-11-12 at 3 20 12 PM" src="https://github.com/user-attachments/assets/442bea18-6109-45ab-9a5d-5a22b6a1093f">
+
+#### How can this be applied?
+
+One of the strengths of an AI Agent compared to ChatGPT or Claude is its ability to operate based on data that I provide. I considered using it to create a simple game inspired by “20 Questions.” The idea is to create a game where the AI can understand and respond to questions based on a set of predefined word data.
+
+Data  
+<img width="1041" alt="Screenshot 2024-11-12 at 3 19 03 PM" src="https://github.com/user-attachments/assets/367e5155-c91b-476c-8e8a-bc36abf0d012">  
+
+<img width="500" alt="Screenshot 2024-11-12 at 3 18 29 PM" src="https://github.com/user-attachments/assets/be7a4f23-10d3-4378-a23d-5abe19f15613">  
+
+
+Additionally, I utilized APIs to bring the AI agent into a web-based setting. In the Bay Area, there are often valuable opportunities through Zoom events. However, I’ve missed some due to class or other commitments. This inspired me to create an agent that could attend Zoom meetings on my behalf, participate in the sessions, and provide a summary of the meeting afterward for me to review.
+
+I considered the following five stages, though I could only proceed up to stage two due to time constraints.  
+
+<img width="500" alt="Screenshot 2024-11-12 at 3 16 51 PM" src="https://github.com/user-attachments/assets/b6105011-745e-4f34-ad52-ede0e3a8b51b">  
+<img width="500" alt="Screenshot 2024-11-12 at 3 16 43 PM" src="https://github.com/user-attachments/assets/88a9caf3-58ee-432e-97fb-b127725fde04">  
+
+<img width="800" alt="Screenshot 2024-11-12 at 3 17 58 PM" src="https://github.com/user-attachments/assets/f465cb3f-dcb5-41fb-adea-f323339cf05a">  
+
+The final project was submitted as a video in the following format.  
+[Watch the Video](https://youtu.be/SjqrSGHT6Ao)
+
+
+---
 ## Week of 10/31/2024
 
 Learned about Zerowidth, I was always want to learn about building AI Agent.
