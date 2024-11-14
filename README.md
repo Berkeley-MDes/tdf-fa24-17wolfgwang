@@ -22,6 +22,35 @@
 [week 10](README.md#week-of-10312024)
 
 ---
+## Week of 11/14/2024
+
+#### Final project를 정리하고 report를 제출하였다.
+최종 각 링크는 다음과 같다.
+- [Experiment 1](https://zerowidth.ai/c/demo/2EgtmBevxGDgas6w7f6C/draft)
+- [Experiment 2](https://zerowidth.ai/c/demo/IRouVARd1zcw8NyPUq0o/draft)
+- [Experiment 3](https://zerowidth.ai/c/demo/wwEwQkYHlEy8NBCff6Fv/draft)
+- [Experiment 4](https://zerowidth.ai/c/demo/ordaoFNgvm31XtaxB0LV/draft)
+- [Final Experiment](https://zerowidth.ai/c/demo/s7bcOyLNhS7bl9KtXpDm/draftm i Youtube Video(https://youtu.be/SjqrSGHT6Ao)
+
+<img width="500" alt="Screenshot 2024-11-14 at 11 26 27 AM" src="https://github.com/user-attachments/assets/5c28cc80-ff73-4b6d-ab81-27038e0b2e4c">
+
+#### Process
+1. Set Knowledge : Subjects, Words -> 2. Set Instruction -> 3. Set Model : GPT-4o -> 4. Write Input -> 5.Check Output
+<img width="500" alt="Screenshot 2024-11-14 at 1 02 23 PM" src="https://github.com/user-attachments/assets/3af9667a-0838-45c9-9b4d-48167cc1d84c">
+
+#### Result
+
+The goal of this project was to create an agent that could respond naturally and provide helpful information. I focused on improving its understanding, designing an easy interaction flow, and adding a knowledge-based feature to give relevant information. These efforts helped create a responsive and user- friendly agent
+
+I ran experiments to improve the agent’s abilities. First, adjusting the “temperature” showed that higher settings made responses creative but less consistent, while lower settings made them more predictable. I also tested different question styles to see how they impacted responses and added a knowledge-based feature for faster, accurate answers
+
+These experiments shaped the final design. Temperature testing helped balance creativity and accuracy, and the knowledge-based feature made the agent’s responses more relevant. Simplifying questions also made interactions clearer. These changes led to a prototype that meets project goals with a smooth, accurate experience.
+
+#### Conclusion
+
+This project allowed me to explore foundational aspects of building an AI agent using Zerowidth, providing valuable hands-on experience. I developed two distinct projects: a word-guessing game with variable difficulty levels and an AI-powered assistant that uses Google Voice API for voice input. Positive feedback highlighted the projects’ functionality, creativity, and clarity. Reflecting on the process, I’m pleased with how each project demonstrated unique interaction methods and potential. Moving forward, I plan to continue using Zerowidth in my projects beyond the course, further enhancing interactive features like adding text-to-speech to deepen user engagement and immersion.
+
+---
 ## Week of 11/07/2024
 
 #### What is ZeroWidth?
