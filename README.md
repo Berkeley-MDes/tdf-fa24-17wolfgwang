@@ -21,6 +21,21 @@
 
 [week 10](README.md#week-of-10312024)
 
+
+## Week of 11/21/2024
+  
+For the final Project 4, I conceptualized a Snack Box.  
+  
+The inspiration came from my own habits of snacking. I often found myself finishing an entire snack without realizing it, only to feel concerned about its health impact afterward. I tried quitting snacks altogether, but it was challenging. Instead, I wanted to find a way to enjoy snacks moderately while maintaining a healthy lifestyle.  
+
+<img width="500" alt="Screenshot 2024-11-14 at 1 02 23 PM" src="https://github.com/user-attachments/assets/c07d12e9-ed59-4719-adce-b1da39636cf3">  
+
+Together with Chuhua and Yule, we formed a team, each taking on the following responsibilities:  
+  
+Yule : Mobile app development and cloud data integration.  
+Josh : Sensor and motorized mechanism integration.  
+Chuhua: User interaction design and feedback systems.  
+  
 ---
 ## Week of 11/14/2024
 
