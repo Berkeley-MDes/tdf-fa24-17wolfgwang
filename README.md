@@ -81,23 +81,7 @@ Outcome
 	•	OpenAI API utilized to perform specific calculations, providing valuable data for the Snackbox system.
 	•	Final setup enables efficient calorie tracking and motorized mechanism control for the Snackbox project.
 
-<img width="500" alt="Screenshot 2024-12-07 at 2 01 27 PM" src="https://github.com/user-attachments/assets/087050a5-8e8f-41e0-8a12-9b640234c4ef">
 
-With this code, I changed to .ino file to use arduino to communicate with Google sheets API.
-
-<img width="500" alt="Screenshot 2024-12-07 at 2 00 04 PM" src="https://github.com/user-attachments/assets/266c3239-2e6b-46b0-9d02-b3f804ebdcd7">
-
-Now I need API key so I use google cloud console to get the key. and thankfully it works well, got result like this.
-
-<img width="500" alt="Screenshot 2024-12-07 at 2 00 11 PM" src="https://github.com/user-attachments/assets/d4a31514-f954-4c75-81ac-e458db54cf21">
-
-With these data, I tried to send this to openai api so that I could use LLM to make an specific algorithm to calculate approximate BMR and one grab calories of user.
-
-<img width="500" alt="Screenshot 2024-12-07 at 1 59 52 PM" src="https://github.com/user-attachments/assets/c83eaad4-a023-4297-b1b2-536322f731ff">
-
-and communication success, got data about user's one day limited calories, one grab calories, and total steps that pump should work.
-
-<img width="500" alt="Screenshot 2024-12-07 at 2 00 20 PM" src="https://github.com/user-attachments/assets/e151f990-88e9-4595-b06e-577e858ce8eb">
 
 ## Week of 11/21/2024
   
